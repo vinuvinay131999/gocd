@@ -1,4 +1,4 @@
- [virtual_a]
-vinay ansible_host=192.168.21.21 ansible_user=vinay
+[virtual_a]
+##vinay ansible_host=192.168.21.21 ansible_user=vinay
 vboxuser ansible_host=192.168.20.20 ansible_user=vboxuser
 
