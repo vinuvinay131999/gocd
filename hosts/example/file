@@ -1,2 +1,2 @@
  [webserver]
-ranjith ansible_host=192.168.21.231 ansible_user=ranjith
+ranjith ansible_host=192.168.15.231 ansible_user=ranjith
