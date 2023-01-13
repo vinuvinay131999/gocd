@@ -1,0 +1,4 @@
+- name: vinay
+  hosts: webserver
+  roles:
+  - example1

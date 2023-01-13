@@ -1,0 +1,2 @@
+ [webserver]
+vinay ansible_host=192.168.21.21 ansible_user=vinay
