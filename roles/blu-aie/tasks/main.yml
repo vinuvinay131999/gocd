@@ -1,5 +1,5 @@
 ---
 - name: postgres-sql
    # become: true
-  command: docker run -d --network=elastic --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.6.2
+  command: docker run -d --name elasticsearch -p 9200:9200 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.6.2
 
