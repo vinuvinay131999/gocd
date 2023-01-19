@@ -1,4 +1,4 @@
-- name: create vhosts directory
-  file:
-   path: "/home/vboxuser/nginx1234"
-   state: directory
+---
+- name: example
+  command: sudo apt-get update
+ 
