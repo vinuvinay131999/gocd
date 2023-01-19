@@ -1,3 +1,4 @@
----
-- name: example
-  command: mkdir gocdddd
+- name: create vhosts directory
+  file:
+   path: "/home/vboxuser/nginx1234"
+   state: directory
